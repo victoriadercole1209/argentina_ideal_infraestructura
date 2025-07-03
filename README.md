@@ -18,7 +18,7 @@ Desarrollar un **Data Warehouse en Google BigQuery** con datos limpios, estructu
 
 ---
 
-## Autores:
+## 👥 Autores:
 * Maria Victoria D'Ercole
 * Julieta Belén Dasso
 * Miguel Ignacio Rodriguez Puertas
@@ -68,7 +68,7 @@ argentina_ideal_infraestructura/
 
 ## 📬 Contacto
 
-**Victoria Dercole**  
+**Maria Victoria Dercole**  
 [GitHub](https://github.com/victoriadercole1209)  
 victoriadercole1209@gmail.com  
 
