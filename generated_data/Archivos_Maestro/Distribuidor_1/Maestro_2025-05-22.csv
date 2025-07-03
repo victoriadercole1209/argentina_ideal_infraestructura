@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+49,2234,La Banda,Santiago del Estero,I,Bettye Cho,34896606982,Almacén Oeste,Avenida Viedma N° 244,JU,26-6237983,2023-11-12,2025-05-22,-22.818748,-65.18188,EFE,8933.39,RESTAURANTE,1
+33,8021,Dolavon,Chubut,A,Darnell Flanigan,34874066210,Comercial Norte,Calle San Juan N° 428,DO,38-3003852,2023-06-18,2025-05-22,-31.697429,-58.170269,CEX,8998.79,MAYORISTA,1
+36,9555,Gobernador Gregores,Santa Cruz,A,Florence Oliver,23186471661,Almacén Central,Diagonal La Rioja N° 754,MA,38-0956969,2024-09-30,2025-05-22,-34.251484,-68.292284,EFE,0.0,MAYORISTA,1
+31,3071,Sarmiento,Chubut,A,Crystal Seaman,23260722450,Almacén Norte,Av. Omar Nuñez N° 993,JU,38-4560975,2023-10-27,2025-05-22,-39.167877,-69.898864,CEX,0.0,KIOSK,1
+50,7837,Puerto San Julián,Santa Cruz,A,Rebecca Basile,24069942784,Almacén Este,Av. Ciudad Autónoma de Buenos Aires N° 292,DO,38-3967950,2025-05-29,2025-05-22,-53.156518,-67.705129,CEX,9766.14,GROCERY,1
+32,2152,Tolhuin,Tierra del Fuego,I,David Cook,20388351578,Almacén Norte,Diagonal 7 N° 52,MA,37-1119721,2024-07-16,2025-05-22,-28.484532,-66.92654,CEX,1220.79,SHOPPING,1
+28,9165,Santo Tomé,Santa Fe,A,Ashlee Dubois,33740020237,Comercial Central,Diagonal Entre Ríos N° 562,DO,34-4151849,2024-08-09,2025-05-22,-26.972583,-65.399042,CEX,0.0,TEA,1
+37,7721,Rosario,Santa Fe,A,Jack Jeffreys,26257829749,Comercial Central,Avenida J.M. de Rosas N° 97,MA,34-4871202,2024-03-19,2025-05-22,-27.25897,-63.680831,EFE,5146.58,PETROL,1
+41,9574,Esquel,Chubut,I,Christopher Moran,23684120237,Comercial Norte,Avenida Rivadavia N° 614,MA,29-3278327,2023-10-13,2025-05-22,-29.671533,-66.014904,CEX,0.0,MAYORISTA,1
+36,4398,La Punta,San Luis,A,Pasquale Seligman,30835203534,Distribuidora Norte,Avenida 182 B N° 73,JU,26-5521924,2025-01-11,2025-05-22,-26.689345,-65.038835,EFE,7267.72,MAKRO,1

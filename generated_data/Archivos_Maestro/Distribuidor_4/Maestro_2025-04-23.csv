@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+109,8495,Metán,Salta,A,Daniella Halas,30465532098,Almacén Sur,Avenida Rawson N° 6740,JU,29-2385856,2023-12-05,2025-04-23,-30.557701,-66.61774,CEX,0.0,SHOPPING,4
+122,3555,Tolhuin,Tierra del Fuego,A,Tommy Easterly,26531852596,Distribuidora Oeste,Blv. Alvear N° 668,MI,29-5004481,2024-03-04,2025-04-23,-42.501896,-69.27095,CEX,8663.63,HORECA,4
+111,9748,Cafayate,Salta,A,Cynthia Marshall,26484416205,Comercial Oeste,Avenida Río Gallegos N° 67,SA,36-9306503,2024-03-06,2025-04-23,-33.784634,-66.481973,EFE,1565.56,AIRPORT,4
+105,7077,Villa Constitución,Santa Fe,A,Bong Testani,33618425953,Almacén Oeste,Diagonal Posadas N° 891,SA,29-7629384,2025-05-14,2025-04-23,-44.996329,-69.922706,CEX,1203.73,PETROL,4
+121,6188,Quitilipi,Chaco,A,Susan Steiger,25205542085,Almacén Este,Diagonal 5 N° 9299,MI,17-3918506,2025-05-23,2025-04-23,-44.531089,-67.991183,EFE,0.0,HORECA,4
+112,4881,Presidencia Roque Sáenz Peña,Chaco,I,Marguerite Fuhr,20807562383,Almacén Sur,Calle J.B. Alberdi N° 46,JU,38-3810704,2024-09-02,2025-04-23,-26.745353,-65.286984,CEX,4435.02,HORECA,4
+107,5671,Añatuya,Santiago del Estero,A,David Platt,20993961821,Almacén Oeste,Camino J.B. Alberdi N° 722,MI,34-0212631,2023-06-13,2025-04-23,-53.939787,-67.050701,EFE,6752.45,AIRPORT,4
+108,7813,La Punta,San Luis,I,Samantha Long,34671047998,Comercial Este,Avenida 5 N° 648,JU,37-1108217,2024-04-13,2025-04-23,-44.137927,-69.846301,EFE,7101.9,PETROL,4
+106,6419,La Caldera,Salta,A,Kenneth Wheatley,24327018522,Almacén Este,Calle Corrientes N° 14,LU,38-0119566,2025-02-18,2025-04-23,-26.20309,-65.664963,EFE,1924.44,RECREATIONAL,4
+114,1762,Villa Ángela,Chaco,I,Carol Campbell,33095992522,Comercial Central,Avenida Catamarca N° 587,LU,26-7193830,2023-10-06,2025-04-23,-29.838616,-66.5526,EFE,0.0,GROCERY,4

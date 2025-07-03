@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+113,7892,Tolhuin,Tierra del Fuego,A,Daniella Halas,30465532098,Almacén Sur,Avenida Rawson N° 6740,MI,29-2385856,2023-12-05,2025-06-11,-30.557701,-66.61774,EFE,7335.02,SHOPPING,4
+107,8634,Pomán,Catamarca,A,Tommy Easterly,26531852596,Distribuidora Oeste,Blv. Alvear N° 668,VI,29-5004481,2024-03-04,2025-06-11,-42.501896,-69.27095,EFE,9808.51,HORECA,4
+108,1459,Monte Caseros,Corrientes,I,Cynthia Marshall,26484416205,Comercial Oeste,Avenida Río Gallegos N° 67,LU,36-9306503,2024-03-06,2025-06-11,-33.784634,-66.481973,CEX,4900.62,AIRPORT,4
+120,2069,Quimilí,Santiago del Estero,A,Bong Testani,33618425953,Almacén Oeste,Diagonal Posadas N° 891,VI,29-7629384,2025-05-14,2025-06-11,-44.996329,-69.922706,EFE,9715.29,PETROL,4
+112,9024,La Quiaca,Jujuy,A,Susan Steiger,25205542085,Almacén Este,Diagonal 5 N° 9299,MI,17-3918506,2025-05-23,2025-06-11,-44.531089,-67.991183,CEX,0.0,HORECA,4
+103,1585,Nogoyá,Entre Ríos,A,Marguerite Fuhr,20807562383,Almacén Sur,Calle J.B. Alberdi N° 46,SA,38-3810704,2024-09-02,2025-06-11,-26.745353,-65.286984,CEX,0.0,HORECA,4
+105,2043,Bell Ville,Córdoba,A,David Platt,20993961821,Almacén Oeste,Camino J.B. Alberdi N° 722,DO,34-0212631,2023-06-13,2025-06-11,-53.939787,-67.050701,CEX,5809.82,AIRPORT,4
+106,1320,9 de Julio,San Juan,A,Samantha Long,34671047998,Comercial Este,Avenida 5 N° 648,MA,37-1108217,2024-04-13,2025-06-11,-44.137927,-69.846301,EFE,0.0,PETROL,4
+115,4973,Allen,Río Negro,I,Kenneth Wheatley,24327018522,Almacén Este,Calle Corrientes N° 14,SA,38-0119566,2025-02-18,2025-06-11,-26.20309,-65.664963,CEX,6596.67,RECREATIONAL,4
+111,3513,San Martín,Mendoza,A,Carol Campbell,33095992522,Comercial Central,Avenida Catamarca N° 587,LU,26-7193830,2023-10-06,2025-06-11,-29.838616,-66.5526,CEX,0.0,GROCERY,4

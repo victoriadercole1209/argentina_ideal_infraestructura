@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+148,6251,Lules,Tucumán,A,Ernesto Dean,30511773809,Comercial Oeste,Avenida La Rioja N° 71,DO,37-5574580,2023-10-01,2025-05-13,-30.349188,-68.998715,EFE,0.0,PETROL,5
+148,8315,Puerto Iguazú,Misiones,I,Michael Herron,23442592667,Comercial Norte,Av. Río Negro N° 849,VI,29-1373714,2024-08-20,2025-05-13,-30.529062,-64.466177,EFE,0.0,SHOPPING,5
+129,1256,Las Breñas,Chaco,A,Robert Ward,26121578154,Comercial Este,Blv. San Luis N° 11,VI,29-0073723,2023-08-29,2025-05-13,-27.161004,-66.56949,EFE,9127.04,RESTAURANTE,5
+133,4454,Tilisarao,San Luis,A,Charles Wright,20864178103,Comercial Central,Diag. 3 N° 874,VI,38-2999362,2025-05-11,2025-05-13,-25.552832,-57.891868,EFE,3182.56,HORECA,5
+127,8227,Leandro N. Alem,Misiones,A,Richard Jones,30979972764,Distribuidora Este,Diagonal Salta N° 813,MA,37-2481696,2024-01-08,2025-05-13,-33.750784,-60.098005,CEX,0.0,RESTAURANTE,5
+136,8713,Río Grande,Tierra del Fuego,A,Susan Stonge,33922324325,Distribuidora Sur,Diag. Santa Rosa N° 52,LU,37-3602659,2024-09-06,2025-05-13,-25.108451,-57.177796,CEX,0.0,RECREATIONAL,5
+135,5845,Fiambalá,Catamarca,A,Micheal Bartz,24814568370,Distribuidora Sur,Diag. G. Brown N° 757,DO,26-3587418,2024-06-02,2025-05-13,-30.447651,-64.183252,CEX,0.0,KIOSK,5
+134,5799,Santo Tomé,Corrientes,A,Alan Frank,30078424186,Comercial Oeste,Calle Salta N° 381,VI,38-4523266,2023-07-16,2025-05-13,-39.767298,-69.461492,CEX,0.0,HORECA,5
+131,1732,Villa Ángela,Chaco,I,Katherine Ransom,20758925357,Almacén Sur,Diagonal 9 N° 75,LU,35-3449341,2023-07-26,2025-05-13,-32.215803,-63.015611,CEX,0.0,PETROL,5
+139,2814,Bella Vista,Corrientes,A,Greg Nolan,30957955236,Distribuidora Central,Calle Santiago del Estero N° 425,MA,29-5129614,2023-10-03,2025-05-13,-30.381519,-59.49365,EFE,7709.16,PETROL,5

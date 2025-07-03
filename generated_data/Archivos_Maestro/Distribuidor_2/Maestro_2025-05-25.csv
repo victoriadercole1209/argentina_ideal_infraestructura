@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+61,2541,Centenario,Neuquén,A,Brian Fulton,23368881720,Almacén Sur,Diagonal Ciudad Autónoma de Buenos Aires N° 999,MA,26-2847127,2025-03-05,2025-05-25,-22.443119,-63.56491,CEX,0.0,HOTEL,2
+67,8096,Concordia,Entre Ríos,A,Kelly Ronn,30887752306,Comercial Sur,Calle Formosa N° 398,MI,29-1166757,2024-10-05,2025-05-25,-31.29122,-68.175239,CEX,0.0,TEA,2
+69,5744,Villaguay,Entre Ríos,A,Miguel Swank,26542841806,Almacén Central,Diagonal 7 N° 844,SA,26-3877728,2023-12-06,2025-05-25,-25.179475,-57.66905,EFE,0.0,PETROL,2
+53,8458,Sarmiento,Chubut,A,Helen Laflamme,23159669979,Almacén Sur,Av. San Juan N° 4885,JU,37-0171513,2024-04-18,2025-05-25,-39.184432,-70.157768,CEX,9131.35,AIRPORT,2
+63,2007,San Martín,Mendoza,A,Stephen Jahnke,34797659505,Comercial Este,Avenida Paraná N° 43,VI,29-3516653,2024-08-10,2025-05-25,-31.3388,-58.296764,CEX,5415.31,PETROL,2
+69,7375,Nogoyá,Entre Ríos,I,Ronda Threet,26951220462,Almacén Central,Diagonal La Rioja N° 617,LU,26-3279831,2024-08-01,2025-05-25,-43.63288,-67.577648,CEX,1659.3,HORECA,2
+63,7245,Diamante,Entre Ríos,A,Bessie Reynolds,27036753525,Comercial Oeste,Av. Río Gallegos N° 71,DO,38-3858908,2025-02-09,2025-05-25,-32.139266,-63.316866,EFE,8781.84,GROCERY,2
+52,3541,Quimilí,Santiago del Estero,A,Bonnie Ferreira,24277312418,Almacén Oeste,Av. Formosa N° 368,DO,26-6539566,2023-07-24,2025-05-25,-27.023447,-66.311619,CEX,0.0,GROCERY,2
+73,9711,Villaguay,Entre Ríos,A,Paul Tsosie,25890997977,Almacén Central,Avenida J.J. Castelli N° 586,DO,34-8621697,2024-06-07,2025-05-25,-34.880863,-69.756215,EFE,1929.26,AIRPORT,2
+53,6943,Rawson,Chubut,A,Anthony Sutton,25180115752,Almacén Central,Av. Pte. Perón N° 473,MA,26-3119422,2025-05-14,2025-05-25,-23.843766,-65.71053,EFE,4527.34,HOTEL,2

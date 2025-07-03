@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+61,1964,Neuquén,Neuquén,A,Brian Fulton,23368881720,Almacén Sur,Diagonal Ciudad Autónoma de Buenos Aires N° 999,DO,26-2847127,2025-03-05,2025-06-11,-22.443119,-63.56491,EFE,4696.93,HOTEL,2
+64,7672,Tinogasta,Catamarca,A,Kelly Ronn,30887752306,Comercial Sur,Calle Formosa N° 398,JU,29-1166757,2024-10-05,2025-06-11,-31.29122,-68.175239,CEX,0.0,TEA,2
+71,9529,Río Grande,Tierra del Fuego,A,Miguel Swank,26542841806,Almacén Central,Diagonal 7 N° 844,DO,26-3877728,2023-12-06,2025-06-11,-25.179475,-57.66905,CEX,1562.7,PETROL,2
+58,1109,Villa Gobernador Gálvez,Santa Fe,A,Helen Laflamme,23159669979,Almacén Sur,Av. San Juan N° 4885,DO,37-0171513,2024-04-18,2025-06-11,-39.184432,-70.157768,EFE,1353.48,AIRPORT,2
+72,8962,Lago Puelo,Chubut,A,Stephen Jahnke,34797659505,Comercial Este,Avenida Paraná N° 43,SA,29-3516653,2024-08-10,2025-06-11,-31.3388,-58.296764,EFE,9937.92,PETROL,2
+61,2660,Tafí Viejo,Tucumán,A,Ronda Threet,26951220462,Almacén Central,Diagonal La Rioja N° 617,SA,26-3279831,2024-08-01,2025-06-11,-43.63288,-67.577648,EFE,0.0,HORECA,2
+71,5720,Las Breñas,Chaco,A,Bessie Reynolds,27036753525,Comercial Oeste,Av. Río Gallegos N° 71,SA,38-3858908,2025-02-09,2025-06-11,-32.139266,-63.316866,CEX,0.0,GROCERY,2
+63,1288,Valle Viejo,Catamarca,A,Bonnie Ferreira,24277312418,Almacén Oeste,Av. Formosa N° 368,SA,26-6539566,2023-07-24,2025-06-11,-27.023447,-66.311619,EFE,0.0,GROCERY,2
+72,8952,Cafayate,Salta,A,Paul Tsosie,25890997977,Almacén Central,Avenida J.J. Castelli N° 586,MI,34-8621697,2024-06-07,2025-06-11,-34.880863,-69.756215,CEX,0.0,AIRPORT,2
+53,3399,Tilcara,Jujuy,I,Anthony Sutton,25180115752,Almacén Central,Av. Pte. Perón N° 473,SA,26-3119422,2025-05-14,2025-06-11,-23.843766,-65.71053,CEX,8164.14,HOTEL,2

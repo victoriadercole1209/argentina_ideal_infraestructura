@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+34,3200,La Rioja,La Rioja,I,Bettye Cho,34896606982,Almacén Oeste,Avenida Viedma N° 244,MA,26-6237983,2023-11-12,2025-05-28,-22.818748,-65.18188,CEX,0.0,RESTAURANTE,1
+27,5196,La Rioja,La Rioja,A,Darnell Flanigan,34874066210,Comercial Norte,Calle San Juan N° 428,VI,38-3003852,2023-06-18,2025-05-28,-31.697429,-58.170269,CEX,7709.58,MAYORISTA,1
+33,9101,Santa Rosa,Catamarca,A,Florence Oliver,23186471661,Almacén Central,Diagonal La Rioja N° 754,MA,38-0956969,2024-09-30,2025-05-28,-34.251484,-68.292284,CEX,0.0,MAYORISTA,1
+27,9940,Loreto,Santiago del Estero,A,Crystal Seaman,23260722450,Almacén Norte,Av. Omar Nuñez N° 993,MI,38-4560975,2023-10-27,2025-05-28,-39.167877,-69.898864,CEX,0.0,KIOSK,1
+42,5939,Cutral Có,Neuquén,A,Rebecca Basile,24069942784,Almacén Este,Av. Ciudad Autónoma de Buenos Aires N° 292,DO,38-3967950,2025-05-29,2025-05-28,-53.156518,-67.705129,EFE,8742.42,GROCERY,1
+37,2496,Machagai,Chaco,A,David Cook,20388351578,Almacén Norte,Diagonal 7 N° 52,JU,37-1119721,2024-07-16,2025-05-28,-28.484532,-66.92654,CEX,3893.64,SHOPPING,1
+44,9731,Rawson,San Juan,I,Ashlee Dubois,33740020237,Comercial Central,Diagonal Entre Ríos N° 562,DO,34-4151849,2024-08-09,2025-05-28,-26.972583,-65.399042,EFE,0.0,TEA,1
+42,4584,Rosario de Lerma,Salta,A,Jack Jeffreys,26257829749,Comercial Central,Avenida J.M. de Rosas N° 97,SA,34-4871202,2024-03-19,2025-05-28,-27.25897,-63.680831,CEX,1537.03,PETROL,1
+44,9780,Palpalá,Jujuy,A,Christopher Moran,23684120237,Comercial Norte,Avenida Rivadavia N° 614,JU,29-3278327,2023-10-13,2025-05-28,-29.671533,-66.014904,CEX,0.0,MAYORISTA,1
+34,3536,Perito Moreno,Santa Cruz,A,Pasquale Seligman,30835203534,Distribuidora Norte,Avenida 182 B N° 73,DO,26-5521924,2025-01-11,2025-05-28,-26.689345,-65.038835,CEX,0.0,MAKRO,1

@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+99,7584,Oberá,Misiones,A,Vernon Gang,20302517714,Comercial Sur,Calle Belgrano N° 166,DO,29-9585615,2023-11-05,2025-05-11,-31.027205,-63.521138,CEX,0.0,GROCERY,3
+82,8883,Caucete,San Juan,I,Terrence Jacko,30070311823,Comercial Sur,Diagonal Tucumán N° 943,JU,37-0969347,2024-10-19,2025-05-11,-30.077367,-58.186447,CEX,3689.62,RESTAURANTE,3
+78,1276,Calingasta,San Juan,A,Scott Schulte,20300970890,Distribuidora Central,Calle 8 N° 34,DO,37-2971745,2024-01-07,2025-05-11,-53.738142,-67.334179,CEX,0.0,HOTEL,3
+77,6802,San Rafael,Mendoza,A,Leeanna Holmes,20587416133,Comercial Oeste,Blv. Chubut N° 797,LU,26-6459007,2023-11-24,2025-05-11,-31.935304,-63.88677,CEX,9093.96,KIOSK,3
+79,4106,Tafí Viejo,Tucumán,A,Douglas Warren,20287983929,Distribuidora Sur,Calle 9 N° 795,SA,38-6467572,2024-02-26,2025-05-11,-33.286389,-68.173605,CEX,5793.94,RESTAURANTE,3
+88,1424,Jesús María,Córdoba,A,Betty Silverstein,27957086486,Distribuidora Norte,Avenida La Rioja N° 271,MI,38-5044841,2024-08-06,2025-05-11,-28.286345,-57.448198,EFE,0.0,KIOSK,3
+80,3025,San Fernando del Valle de Catamarca,Catamarca,A,Peggy Lorraine,34644960571,Comercial Este,Avenida Belgrano N° 703,DO,29-5760870,2025-01-23,2025-05-11,-53.901163,-67.112845,EFE,7822.08,GROCERY,3
+77,2170,Tinogasta,Catamarca,A,Carolina Wright,33931735657,Comercial Este,Avenida Neuquén N° 63,JU,34-3238844,2024-09-23,2025-05-11,-25.140984,-54.974216,CEX,0.0,TEA,3
+91,1715,Perico,Jujuy,A,Pedro Adkins,23539885796,Almacén Oeste,Calle 1 N° 379,SA,38-0595279,2024-12-26,2025-05-11,-38.642127,-70.025221,CEX,0.0,HORECA,3
+77,9526,Villa La Angostura,Neuquén,A,Gary Griffith,23686287840,Comercial Central,Calle J.J. Castelli N° 179,MI,29-0335083,2024-04-25,2025-05-11,-30.145951,-59.558033,EFE,0.0,RECREATIONAL,3

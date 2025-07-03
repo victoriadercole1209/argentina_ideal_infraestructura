@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+42,7289,Allen,Río Negro,A,Bettye Cho,34896606982,Almacén Oeste,Avenida Viedma N° 244,VI,26-6237983,2023-11-12,2025-04-18,-22.818748,-65.18188,EFE,3147.96,RESTAURANTE,1
+41,7999,Pomán,Catamarca,A,Darnell Flanigan,34874066210,Comercial Norte,Calle San Juan N° 428,MI,38-3003852,2023-06-18,2025-04-18,-31.697429,-58.170269,CEX,9443.63,MAYORISTA,1
+50,3766,Lago Puelo,Chubut,A,Florence Oliver,23186471661,Almacén Central,Diagonal La Rioja N° 754,JU,38-0956969,2024-09-30,2025-04-18,-34.251484,-68.292284,EFE,0.0,MAYORISTA,1
+35,4210,San Rafael,Mendoza,A,Crystal Seaman,23260722450,Almacén Norte,Av. Omar Nuñez N° 993,DO,38-4560975,2023-10-27,2025-04-18,-39.167877,-69.898864,EFE,0.0,KIOSK,1
+30,6381,Eldorado,Misiones,A,Rebecca Basile,24069942784,Almacén Este,Av. Ciudad Autónoma de Buenos Aires N° 292,VI,38-3967950,2025-05-29,2025-04-18,-53.156518,-67.705129,EFE,0.0,GROCERY,1
+40,2354,Esperanza,Santa Fe,I,David Cook,20388351578,Almacén Norte,Diagonal 7 N° 52,MI,37-1119721,2024-07-16,2025-04-18,-28.484532,-66.92654,CEX,9777.21,SHOPPING,1
+50,7423,Caucete,San Juan,A,Ashlee Dubois,33740020237,Comercial Central,Diagonal Entre Ríos N° 562,LU,34-4151849,2024-08-09,2025-04-18,-26.972583,-65.399042,EFE,0.0,TEA,1
+50,5338,Puerto San Julián,Santa Cruz,A,Jack Jeffreys,26257829749,Comercial Central,Avenida J.M. de Rosas N° 97,MI,34-4871202,2024-03-19,2025-04-18,-27.25897,-63.680831,EFE,0.0,PETROL,1
+37,7245,Perico,Jujuy,A,Christopher Moran,23684120237,Comercial Norte,Avenida Rivadavia N° 614,LU,29-3278327,2023-10-13,2025-04-18,-29.671533,-66.014904,EFE,0.0,MAYORISTA,1
+42,1170,Maipú,Mendoza,A,Pasquale Seligman,30835203534,Distribuidora Norte,Avenida 182 B N° 73,SA,26-5521924,2025-01-11,2025-04-18,-26.689345,-65.038835,EFE,2987.79,MAKRO,1

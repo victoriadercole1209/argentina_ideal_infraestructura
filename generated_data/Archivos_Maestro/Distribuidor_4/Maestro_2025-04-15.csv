@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+108,4547,Resistencia,Chaco,A,Daniella Halas,30465532098,Almacén Sur,Avenida Rawson N° 6740,JU,29-2385856,2023-12-05,2025-04-15,-30.557701,-66.61774,EFE,5033.92,SHOPPING,4
+113,8424,Cerrillos,Salta,A,Tommy Easterly,26531852596,Distribuidora Oeste,Blv. Alvear N° 668,VI,29-5004481,2024-03-04,2025-04-15,-42.501896,-69.27095,EFE,0.0,HORECA,4
+120,2230,Lules,Tucumán,A,Cynthia Marshall,26484416205,Comercial Oeste,Avenida Río Gallegos N° 67,MA,36-9306503,2024-03-06,2025-04-15,-33.784634,-66.481973,EFE,0.0,AIRPORT,4
+125,4896,Paso de los Libres,Corrientes,A,Bong Testani,33618425953,Almacén Oeste,Diagonal Posadas N° 891,JU,29-7629384,2025-05-14,2025-04-15,-44.996329,-69.922706,CEX,0.0,PETROL,4
+106,6684,Tartagal,Salta,A,Susan Steiger,25205542085,Almacén Este,Diagonal 5 N° 9299,JU,17-3918506,2025-05-23,2025-04-15,-44.531089,-67.991183,EFE,0.0,HORECA,4
+111,7943,Recreo,Catamarca,A,Marguerite Fuhr,20807562383,Almacén Sur,Calle J.B. Alberdi N° 46,MA,38-3810704,2024-09-02,2025-04-15,-26.745353,-65.286984,EFE,0.0,HORECA,4
+115,6347,Tolhuin,Tierra del Fuego,A,David Platt,20993961821,Almacén Oeste,Camino J.B. Alberdi N° 722,DO,34-0212631,2023-06-13,2025-04-15,-53.939787,-67.050701,EFE,0.0,AIRPORT,4
+106,5849,Santo Tomé,Santa Fe,A,Samantha Long,34671047998,Comercial Este,Avenida 5 N° 648,DO,37-1108217,2024-04-13,2025-04-15,-44.137927,-69.846301,CEX,0.0,PETROL,4
+122,3463,Mendoza,Mendoza,A,Kenneth Wheatley,24327018522,Almacén Este,Calle Corrientes N° 14,MI,38-0119566,2025-02-18,2025-04-15,-26.20309,-65.664963,CEX,0.0,RECREATIONAL,4
+108,1872,Olavarría,Buenos Aires,A,Carol Campbell,33095992522,Comercial Central,Avenida Catamarca N° 587,SA,26-7193830,2023-10-06,2025-04-15,-29.838616,-66.5526,EFE,5236.87,GROCERY,4

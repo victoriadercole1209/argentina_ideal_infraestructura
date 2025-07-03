@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+71,6426,Río Gallegos,Santa Cruz,A,Brian Fulton,23368881720,Almacén Sur,Diagonal Ciudad Autónoma de Buenos Aires N° 999,MA,26-2847127,2025-03-05,2025-05-07,-22.443119,-63.56491,CEX,0.0,HOTEL,2
+55,8792,Termas de Río Hondo,Santiago del Estero,A,Kelly Ronn,30887752306,Comercial Sur,Calle Formosa N° 398,LU,29-1166757,2024-10-05,2025-05-07,-31.29122,-68.175239,EFE,0.0,TEA,2
+71,6718,Esquina,Corrientes,A,Miguel Swank,26542841806,Almacén Central,Diagonal 7 N° 844,DO,26-3877728,2023-12-06,2025-05-07,-25.179475,-57.66905,EFE,3613.03,PETROL,2
+57,6608,Rawson,Chubut,I,Helen Laflamme,23159669979,Almacén Sur,Av. San Juan N° 4885,DO,37-0171513,2024-04-18,2025-05-07,-39.184432,-70.157768,EFE,0.0,AIRPORT,2
+73,9763,Cutral Có,Neuquén,A,Stephen Jahnke,34797659505,Comercial Este,Avenida Paraná N° 43,LU,29-3516653,2024-08-10,2025-05-07,-31.3388,-58.296764,CEX,6682.2,PETROL,2
+70,2071,Merlo,San Luis,A,Ronda Threet,26951220462,Almacén Central,Diagonal La Rioja N° 617,JU,26-3279831,2024-08-01,2025-05-07,-43.63288,-67.577648,EFE,0.0,HORECA,2
+73,9299,Pico Truncado,Santa Cruz,A,Bessie Reynolds,27036753525,Comercial Oeste,Av. Río Gallegos N° 71,JU,38-3858908,2025-02-09,2025-05-07,-32.139266,-63.316866,EFE,0.0,GROCERY,2
+57,7447,Choele Choel,Río Negro,I,Bonnie Ferreira,24277312418,Almacén Oeste,Av. Formosa N° 368,MI,26-6539566,2023-07-24,2025-05-07,-27.023447,-66.311619,CEX,0.0,GROCERY,2
+58,5109,Sunchales,Santa Fe,A,Paul Tsosie,25890997977,Almacén Central,Avenida J.J. Castelli N° 586,MA,34-8621697,2024-06-07,2025-05-07,-34.880863,-69.756215,CEX,1871.43,AIRPORT,2
+54,5773,Resistencia,Chaco,A,Anthony Sutton,25180115752,Almacén Central,Av. Pte. Perón N° 473,JU,26-3119422,2025-05-14,2025-05-07,-23.843766,-65.71053,EFE,0.0,HOTEL,2

@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+145,1887,Chos Malal,Neuquén,A,Ernesto Dean,30511773809,Comercial Oeste,Avenida La Rioja N° 71,MI,37-5574580,2023-10-01,2025-04-20,-30.349188,-68.998715,EFE,0.0,PETROL,5
+126,2337,Puerto Madryn,Chubut,A,Michael Herron,23442592667,Comercial Norte,Av. Río Negro N° 849,DO,29-1373714,2024-08-20,2025-04-20,-30.529062,-64.466177,CEX,1644.84,SHOPPING,5
+141,3714,Concepción del Uruguay,Entre Ríos,I,Robert Ward,26121578154,Comercial Este,Blv. San Luis N° 11,SA,29-0073723,2023-08-29,2025-04-20,-27.161004,-66.56949,CEX,0.0,RESTAURANTE,5
+127,7807,Aguaray,Salta,I,Charles Wright,20864178103,Comercial Central,Diag. 3 N° 874,VI,38-2999362,2025-05-11,2025-04-20,-25.552832,-57.891868,EFE,0.0,HORECA,5
+133,8407,Esquina,Corrientes,A,Richard Jones,30979972764,Distribuidora Este,Diagonal Salta N° 813,VI,37-2481696,2024-01-08,2025-04-20,-33.750784,-60.098005,EFE,7505.17,RESTAURANTE,5
+132,3062,Tres Arroyos,Buenos Aires,A,Susan Stonge,33922324325,Distribuidora Sur,Diag. Santa Rosa N° 52,LU,37-3602659,2024-09-06,2025-04-20,-25.108451,-57.177796,CEX,0.0,RECREATIONAL,5
+126,4562,Puerto San Julián,Santa Cruz,A,Micheal Bartz,24814568370,Distribuidora Sur,Diag. G. Brown N° 757,JU,26-3587418,2024-06-02,2025-04-20,-30.447651,-64.183252,EFE,0.0,KIOSK,5
+146,9304,Junín,Buenos Aires,A,Alan Frank,30078424186,Comercial Oeste,Calle Salta N° 381,MI,38-4523266,2023-07-16,2025-04-20,-39.767298,-69.461492,CEX,0.0,HORECA,5
+126,5023,Yerba Buena,Tucumán,A,Katherine Ransom,20758925357,Almacén Sur,Diagonal 9 N° 75,JU,35-3449341,2023-07-26,2025-04-20,-32.215803,-63.015611,EFE,0.0,PETROL,5
+131,4742,Santiago del Estero,Santiago del Estero,A,Greg Nolan,30957955236,Distribuidora Central,Calle Santiago del Estero N° 425,SA,29-5129614,2023-10-03,2025-04-20,-30.381519,-59.49365,EFE,0.0,PETROL,5

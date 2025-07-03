@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+127,7591,Villaguay,Entre Ríos,A,Ernesto Dean,30511773809,Comercial Oeste,Avenida La Rioja N° 71,VI,37-5574580,2023-10-01,2025-05-15,-30.349188,-68.998715,EFE,6516.25,PETROL,5
+128,5523,Campana,Buenos Aires,A,Michael Herron,23442592667,Comercial Norte,Av. Río Negro N° 849,MI,29-1373714,2024-08-20,2025-05-15,-30.529062,-64.466177,EFE,0.0,SHOPPING,5
+137,7032,Rawson,Chubut,A,Robert Ward,26121578154,Comercial Este,Blv. San Luis N° 11,SA,29-0073723,2023-08-29,2025-05-15,-27.161004,-66.56949,CEX,0.0,RESTAURANTE,5
+140,8257,El Carmen,Jujuy,A,Charles Wright,20864178103,Comercial Central,Diag. 3 N° 874,MI,38-2999362,2025-05-11,2025-05-15,-25.552832,-57.891868,CEX,0.0,HORECA,5
+145,9626,Villa Regina,Río Negro,A,Richard Jones,30979972764,Distribuidora Este,Diagonal Salta N° 813,JU,37-2481696,2024-01-08,2025-05-15,-33.750784,-60.098005,CEX,0.0,RESTAURANTE,5
+144,6032,Cerrillos,Salta,A,Susan Stonge,33922324325,Distribuidora Sur,Diag. Santa Rosa N° 52,JU,37-3602659,2024-09-06,2025-05-15,-25.108451,-57.177796,EFE,8401.04,RECREATIONAL,5
+145,3736,Chilecito,La Rioja,I,Micheal Bartz,24814568370,Distribuidora Sur,Diag. G. Brown N° 757,SA,26-3587418,2024-06-02,2025-05-15,-30.447651,-64.183252,EFE,0.0,KIOSK,5
+133,9826,Añatuya,Santiago del Estero,A,Alan Frank,30078424186,Comercial Oeste,Calle Salta N° 381,DO,38-4523266,2023-07-16,2025-05-15,-39.767298,-69.461492,CEX,0.0,HORECA,5
+144,7609,Loreto,Santiago del Estero,A,Katherine Ransom,20758925357,Almacén Sur,Diagonal 9 N° 75,VI,35-3449341,2023-07-26,2025-05-15,-32.215803,-63.015611,CEX,4563.15,PETROL,5
+133,9168,Campo Quijano,Salta,A,Greg Nolan,30957955236,Distribuidora Central,Calle Santiago del Estero N° 425,SA,29-5129614,2023-10-03,2025-05-15,-30.381519,-59.49365,EFE,0.0,PETROL,5

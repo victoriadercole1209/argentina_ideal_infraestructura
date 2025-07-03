@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio,n_distribuidor
+83,7950,Villa Constitución,Santa Fe,I,Vernon Gang,20302517714,Comercial Sur,Calle Belgrano N° 166,JU,29-9585615,2023-11-05,2025-04-28,-31.027205,-63.521138,CEX,0.0,GROCERY,3
+92,4463,Posadas,Misiones,A,Terrence Jacko,30070311823,Comercial Sur,Diagonal Tucumán N° 943,MA,37-0969347,2024-10-19,2025-04-28,-30.077367,-58.186447,CEX,0.0,RESTAURANTE,3
+86,7727,San Fernando del Valle de Catamarca,Catamarca,I,Scott Schulte,20300970890,Distribuidora Central,Calle 8 N° 34,VI,37-2971745,2024-01-07,2025-04-28,-53.738142,-67.334179,CEX,1275.2,HOTEL,3
+79,8491,Comandante Fontana,Formosa,A,Leeanna Holmes,20587416133,Comercial Oeste,Blv. Chubut N° 797,SA,26-6459007,2023-11-24,2025-04-28,-31.935304,-63.88677,CEX,2819.53,KIOSK,3
+87,2536,Posadas,Misiones,A,Douglas Warren,20287983929,Distribuidora Sur,Calle 9 N° 795,MI,38-6467572,2024-02-26,2025-04-28,-33.286389,-68.173605,CEX,2854.03,RESTAURANTE,3
+92,7635,Puerto Rico,Misiones,A,Betty Silverstein,27957086486,Distribuidora Norte,Avenida La Rioja N° 271,VI,38-5044841,2024-08-06,2025-04-28,-28.286345,-57.448198,EFE,0.0,KIOSK,3
+94,5477,Aguaray,Salta,A,Peggy Lorraine,34644960571,Comercial Este,Avenida Belgrano N° 703,MI,29-5760870,2025-01-23,2025-04-28,-53.901163,-67.112845,CEX,1519.78,GROCERY,3
+96,7961,Jesús María,Córdoba,A,Carolina Wright,33931735657,Comercial Este,Avenida Neuquén N° 63,SA,34-3238844,2024-09-23,2025-04-28,-25.140984,-54.974216,CEX,0.0,TEA,3
+100,2737,Pomán,Catamarca,A,Pedro Adkins,23539885796,Almacén Oeste,Calle 1 N° 379,JU,38-0595279,2024-12-26,2025-04-28,-38.642127,-70.025221,EFE,0.0,HORECA,3
+80,1894,Las Breñas,Chaco,A,Gary Griffith,23686287840,Comercial Central,Calle J.J. Castelli N° 179,MI,29-0335083,2024-04-25,2025-04-28,-30.145951,-59.558033,CEX,0.0,RECREATIONAL,3
