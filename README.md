@@ -57,12 +57,6 @@ argentina_ideal_infraestructura/
 
 
 
-## 📬 Contacto
-María Victoria D’Ercole
-
-📧 victoriadercole1209@gmail.com
-
-🌐 GitHub
 
 Este proyecto busca integrar herramientas tecnológicas y análisis de datos para aportar a la planificación urbana estratégica en Argentina.
 
